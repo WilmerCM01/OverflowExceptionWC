@@ -1,0 +1,48 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\juan_\\Desktop\\Programas\\Programas.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\juan_\\Desktop\\Programas\\Programas.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\juan_\\Desktop\\Programas\\Programas.csproj",
+        "projectName": "Programas",
+        "projectPath": "C:\\Users\\juan_\\Desktop\\Programas\\Programas.csproj",
+        "packagesPath": "C:\\Users\\juan_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juan_\\Desktop\\Programas\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\juan_\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.407\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

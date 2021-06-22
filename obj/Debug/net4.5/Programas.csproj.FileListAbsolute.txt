@@ -1,0 +1,9 @@
+C:\Users\juan_\Desktop\Programas\bin\Debug\net4.5\Programas.exe.config
+C:\Users\juan_\Desktop\Programas\bin\Debug\net4.5\Programas.exe
+C:\Users\juan_\Desktop\Programas\bin\Debug\net4.5\Programas.pdb
+C:\Users\juan_\Desktop\Programas\obj\Debug\net4.5\Programas.csprojAssemblyReference.cache
+C:\Users\juan_\Desktop\Programas\obj\Debug\net4.5\Programas.AssemblyInfoInputs.cache
+C:\Users\juan_\Desktop\Programas\obj\Debug\net4.5\Programas.AssemblyInfo.cs
+C:\Users\juan_\Desktop\Programas\obj\Debug\net4.5\Programas.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Desktop\Programas\obj\Debug\net4.5\Programas.exe
+C:\Users\juan_\Desktop\Programas\obj\Debug\net4.5\Programas.pdb

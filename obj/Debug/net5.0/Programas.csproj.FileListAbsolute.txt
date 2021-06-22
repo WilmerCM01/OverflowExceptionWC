@@ -1,0 +1,16 @@
+C:\Users\juan_\Desktop\Programas\bin\Debug\net5.0\Programas.exe
+C:\Users\juan_\Desktop\Programas\bin\Debug\net5.0\Programas.deps.json
+C:\Users\juan_\Desktop\Programas\bin\Debug\net5.0\Programas.runtimeconfig.json
+C:\Users\juan_\Desktop\Programas\bin\Debug\net5.0\Programas.runtimeconfig.dev.json
+C:\Users\juan_\Desktop\Programas\bin\Debug\net5.0\Programas.dll
+C:\Users\juan_\Desktop\Programas\bin\Debug\net5.0\ref\Programas.dll
+C:\Users\juan_\Desktop\Programas\bin\Debug\net5.0\Programas.pdb
+C:\Users\juan_\Desktop\Programas\obj\Debug\net5.0\Programas.csprojAssemblyReference.cache
+C:\Users\juan_\Desktop\Programas\obj\Debug\net5.0\Programas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\Desktop\Programas\obj\Debug\net5.0\Programas.AssemblyInfoInputs.cache
+C:\Users\juan_\Desktop\Programas\obj\Debug\net5.0\Programas.AssemblyInfo.cs
+C:\Users\juan_\Desktop\Programas\obj\Debug\net5.0\Programas.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Desktop\Programas\obj\Debug\net5.0\Programas.dll
+C:\Users\juan_\Desktop\Programas\obj\Debug\net5.0\ref\Programas.dll
+C:\Users\juan_\Desktop\Programas\obj\Debug\net5.0\Programas.pdb
+C:\Users\juan_\Desktop\Programas\obj\Debug\net5.0\Programas.genruntimeconfig.cache
